@@ -21,8 +21,8 @@ sẽ	R
 cho	E
 người_dùng	N
 đặt_trước	E
-ngay	T
-sau	N
+ngay	R
+sau	N	
 khi	N
 ra_mắt	V
 sản_phẩm	N
@@ -37,7 +37,7 @@ trăm	M
 triệu	M
 liều	V
 vắc_xin	N
-Covid_-_19	M
+Covid_-_19	Np
 cho	E
 các	L
 nước	N
@@ -82,7 +82,7 @@ không_thể	R
 diễn	V
 ra	V
 như	C
-dự_kiến	V
+dự_kiến	N
 .	CH
 
 Ở	E
@@ -101,7 +101,7 @@ tham_dự	V
 là	V
 hãng	N
 hàng_không	N
-lữ_hành	V
+lữ_hành	N
 cung_cấp	V
 các	L
 dịch_vụ	N
@@ -115,7 +115,7 @@ và	Cc
 quốc_tế	N
 .	CH
 
-Viêm	Np
+Viêm	N
 gan	N
 do	E
 rượu	N
@@ -132,9 +132,9 @@ uống	V
 rượu	N
 .	CH
 
-Các	Np
+Các	L
 trường_hợp	N
-viêm	V
+viêm	N
 gan	N
 do	E
 rượu	N
@@ -161,11 +161,10 @@ qua	V
 dốc_sức	N
 chiến_đấu	V
 với	E
-Covid-19	V
+Covid-19	Np
 .	CH
 
-Ca	Np
-nhiễm	V
+Ca_nhiễm	N
 và	Cc
 nhập_viện	V
 đều	R
@@ -216,7 +215,7 @@ ngõ	N
 nhỏ	A
 .	CH
 
-Nữ	Np
+Nữ	N
 công_nhân	N
 gom	V
 những	L
@@ -228,7 +227,7 @@ quá	R
 người	N
 .	CH
 
-Nhà_đầu_tư	Np
+Nhà_đầu_tư	N
 cân_nhắc	V
 khả_năng	N
 Quốc_hội	N
@@ -238,7 +237,7 @@ thêm	V
 kích_thích	V
 .	CH
 
-Tuần	Np
+Tuần	N
 trước	E
 ,	CH
 Mỹ	Np
@@ -251,8 +250,7 @@ mỗi	L
 ngày	N
 .	CH
 
-Nhà	Np
-toán_học	N
+Nhà_toán_học	N
 người	N
 Do_Thái	Np
 phải	V
@@ -267,7 +265,7 @@ tiến_công	V
 châu_Âu	Np
 .	CH
 
-Phi_cơ	Np
+Phi_cơ	N
 gặp	V
 trục_trặc	V
 trên	E
@@ -320,7 +318,7 @@ tốt	A
 ,	CH
 chúng_tôi	P
 đã	R
-cùng_nhau	N
+cùng_nhau	V
 lớn	A
 lên	V
 ở	E
@@ -844,7 +842,7 @@ Ecuador	Np
 -	CH
 Senegal	Np
 :	CH
-Chuyên_gia	Np
+Chuyên_gia	N
 dự_đoán	V
 tỉ_số	Nu
 hòa	V
@@ -876,7 +874,7 @@ tỉ	M
 giao_dịch	V
 .	CH
 
-Bà_già	Np
+Bà_già	N
 nghèo_khổ	A
 ngồi	V
 cô_đơn	A
@@ -991,7 +989,7 @@ chuẩn_bị	V
 nâng_cấp	V
 .	CH
 
-Star_-_up	V
+Star_-_up	N
 Việt_Nam	Np
 ra_mắt	V
 xe_máy_điện	N
@@ -1005,11 +1003,11 @@ tự_động	A
 nhắm	V
 đến	V
 khách_hàng	N
-shipper	Nb
+shipper	N
 .	CH
 
-Tờ	Np
-báo	V
+Tờ	N
+báo	N
 nổi_tiếng	A
 của	E
 Mỹ	Np
@@ -1021,7 +1019,7 @@ dư_luận	N
 xôn_xao	V
 .	CH
 
-Biến	Np
+Biến	V
 gián	N
 thành	V
 trinh_sát	V

@@ -164,8 +164,7 @@ với
 Covid-19
 .
 
-Ca
-nhiễm
+Ca_nhiễm
 và
 nhập_viện
 đều
@@ -251,8 +250,7 @@ mỗi
 ngày
 .
 
-Nhà
-toán_học
+Nhà_toán_học
 người
 Do_Thái
 phải
@@ -1008,8 +1006,7 @@ khách_hàng
 shipper
 .
 
-Tờ
-báo
+Tờ_báo
 nổi_tiếng
 của
 Mỹ
