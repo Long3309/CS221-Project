@@ -14,7 +14,7 @@ tiền_đạo	N
 
 Thông_thường	A
 ,	CH
-các	L
+các	Lf
 hãng	N
 smartphone	N
 sẽ	R
