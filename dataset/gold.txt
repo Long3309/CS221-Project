@@ -451,7 +451,7 @@ thành_công	V
 .	CH
 
 Tại	E
-Bệnh_viện_K	_Trung_ương	Np
+Bệnh_viện_K_Trung_ương	Np
 hầu_hết	X
 nam_giới	N
 mắc	V
