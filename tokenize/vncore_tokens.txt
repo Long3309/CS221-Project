@@ -19,8 +19,10 @@ hãng
 smartphone
 sẽ
 cho
-người_dùng
-đặt_trước
+người
+dùng
+đặt
+trước
 ngay
 sau
 khi
@@ -37,7 +39,9 @@ trăm
 triệu
 liều
 vắc_xin
-Covid_-_19
+Covid
+-
+19
 cho
 các
 nước
@@ -56,7 +60,8 @@ quốc_gia
 nghèo
 .
 
-Mẫu_xe
+Mẫu
+xe
 mới
 không_chỉ
 được
@@ -86,7 +91,9 @@ dự_kiến
 .
 
 Ở
-giải_đấu_này
+giải
+đấu
+này
 ,
 Andy_Murray
 sẽ
@@ -106,11 +113,14 @@ cung_cấp
 các
 dịch_vụ
 vận_chuyển
-hàng_không
+hàng
+không
 và
 các
-gói_du_lịch
-trong_nước
+gói
+du_lịch
+trong
+nước
 và
 quốc_tế
 .
@@ -158,7 +168,8 @@ năm
 Châu_Á
 năm
 qua
-dốc_sức
+dốc
+sức
 chiến_đấu
 với
 Covid-19
@@ -254,7 +265,8 @@ ngày
 Nhà
 toán_học
 người
-Do_Thái
+Do
+Thái
 phải
 rời
 quê_hương
@@ -315,12 +327,14 @@ não
 
 Lan
 là
-cô_gái
+cô
+gái
 tốt
 ,
 chúng_tôi
 đã
-cùng_nhau
+cùng
+nhau
 lớn
 lên
 ở
@@ -333,8 +347,10 @@ trên
 đã
 giúp
 Rashford
-giải_hạn
-bàn_thắng
+giải
+hạn
+bàn
+thắng
 tại
 sân
 Old_Trafford
@@ -349,10 +365,12 @@ Với
 có
 được
 trong
-trận_đấu
+trận
+đấu
 này
 ,
-Quỷ_đỏ
+Quỷ
+đỏ
 đã
 leo
 lên
@@ -383,7 +401,9 @@ Joe_Biden
 cho
 đang
 cân_nhắc
-việc_cắt_bỏ
+việc
+cắt
+bỏ
 chương_trình
 hiện_đại_hoá
 hạt_nhân
@@ -433,7 +453,8 @@ sàng_lọc
 và
 điều_trị
 dự_phòng
-mang_lại
+mang
+lại
 hiệu_quả
 tích_cực
 bởi
@@ -709,7 +730,8 @@ pháo_hoa
 tại
 2
 điểm
-tầm_cao
+tầm
+cao
 và
 1
 điểm
@@ -726,12 +748,14 @@ tăng_giá
 có_thể
 đưa
 Bitcoin
-phá_vỡ
+phá
+vỡ
 hàng_loạt
 kỷ_lục
 trong
 thời_gian
-sắp_tới
+sắp
+tới
 .
 
 Trong
@@ -769,8 +793,8 @@ có
 đủ
 giấy_phép
 ,
-Đất_Xanh
-Quảng_Ngãi
+Đất
+Xanh_Quảng_Ngãi
 vẫn
 san_lấp
 ruộng
@@ -794,7 +818,8 @@ nội_dung
 về
 chuyện
 bí_mật
-đời_tư
+đời
+tư
 cá_nhân
 và
 những
@@ -826,10 +851,12 @@ Việt_Nam
 hai
 đơn_vị
 hiện
-được_phép
+được
+phép
 triển_khai
 tổ_chức
-kỳ_thi
+kỳ
+thi
 IELTS
 bao_gồm
 Hội_đồng
@@ -845,18 +872,22 @@ Ecuador
 Senegal
 :
 Chuyên_gia
-dự_đoán
-tỉ_số
+dự
+đoán
+tỉ
+số
 hòa
 .
 
 Soi
 kèo
-Hà_Lan
+Hà
+Lan
 -
 Qatar
 :
-Hà_Lan
+Hà
+Lan
 sút
 dở
 nhưng
@@ -904,7 +935,8 @@ sắp
 được
 trùng_tu
 và
-Võ_miếu
+Võ
+miếu
 bị
 quên_lãng
 ở
@@ -942,7 +974,8 @@ Nhật_Bản
 kiện
 chính_phủ
 ,
-cho_rằng
+cho
+rằng
 việc
 tử_hình
 bằng
@@ -960,7 +993,7 @@ Lần
 đầu_tiên
 có
 sổ_tay
-sức_khỏe
+sức_khoẻ
 cho
 lao_động
 đi
@@ -970,7 +1003,8 @@ Nhật_Bản
 .
 
 Những
-nút_thắt
+nút
+thắt
 cần
 tháo_gỡ
 để
@@ -991,10 +1025,11 @@ chuẩn_bị
 nâng_cấp
 .
 
-Star_-_up
+Start-up
 Việt_Nam
 ra_mắt
-xe_máy_điện
+xe_máy
+điện
 ,
 có
 trạm
@@ -1013,7 +1048,7 @@ báo
 nổi_tiếng
 của
 Mỹ
-cổ_súy
+cổ_suý
 ăn
 côn_trùng
 khiến
@@ -1031,3 +1066,4 @@ người
 gặp
 nạn
 .
+
