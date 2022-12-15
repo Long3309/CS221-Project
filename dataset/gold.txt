@@ -350,7 +350,7 @@ trong	E
 trận_đấu	V
 này	P
 ,	CH
-Quỷ_đỏ	A
+Quỷ_đỏ	Np
 đã	R
 leo	V
 lên	V
@@ -451,9 +451,7 @@ thành_công	V
 .	CH
 
 Tại	E
-Bệnh_viện	Np
-K	Np
-Trung_ương	Np
+Bệnh_viện_K	_Trung_ương	Np
 hầu_hết	X
 nam_giới	N
 mắc	V
@@ -594,9 +592,9 @@ nhiều	A
 khó_khăn	A
 .	CH
 
-Dịp	Np
+Dịp	N
 nghỉ	V
-Tết_Dương_lịch	N
+Tết_Dương_lịch	Np
 năm	N
 nay	P
 kéo_dài	V
@@ -623,7 +621,7 @@ hết	V
 phòng	N
 .	CH
 
-Nhà_đầu_tư	Np
+Nhà_đầu_tư	N
 nếu	C
 tinh_thần	N
 không	R
@@ -646,8 +644,7 @@ cổ_phiếu	N
 .	CH
 
 Trong	E
-bức	Nc
-tranh	V
+bức_tranh N
 thị_trường	N
 chung	A
 ,	CH
@@ -659,8 +656,7 @@ vị_trí	N
 áp_đảo	V
 .	CH
 
-Toà	Np
-nhà	N
+Toà_nhà	N
 Landmark	Np
 81	M
 hiện	N
@@ -715,7 +711,7 @@ tầm	N
 thấp	A
 .	CH
 
-Các	Np
+Các	L
 chuyên_gia	N
 tin_tưởng	V
 rằng	C
@@ -753,7 +749,7 @@ USD	Nu
 
 Úc	Np
 là	V
-Đối_tác	V
+Đối_tác	N
 Chiến_lược	N
 của	E
 Việt_Nam	Np
@@ -781,7 +777,7 @@ bất_động_sản	N
 Tại	E
 các	L
 buổi	N
-livestream	V
+livestream	N
 ,	CH
 bà	N
 Hằng	Np
@@ -844,7 +840,7 @@ Senegal	Np
 :	CH
 Chuyên_gia	N
 dự_đoán	V
-tỉ_số	Nu
+tỉ_số	N
 hòa	V
 .	CH
 
@@ -856,12 +852,12 @@ Qatar	Np
 :	CH
 Hà_Lan	Np
 sút	V
-dở	V
+dở	A
 nhưng	C
 vẫn	V
 sẽ	V
 thắng	V
-đậm	V
+đậm	A
 .	CH
 
 Chứng_khoán	Np
@@ -902,14 +898,14 @@ sắp	R
 được	V
 trùng_tu	V
 và	Cc
-Võ_miếu	N
+Võ_miếu	Np
 bị	V
 quên_lãng	V
 ở	E
 Huế	Np
 .	CH
 
-Từ	Np
+Từ	E
 thất_bại	V
 của	E
 Huyền_sử	Np
@@ -1006,8 +1002,7 @@ khách_hàng	N
 shipper	N
 .	CH
 
-Tờ	N
-báo	N
+Tờ_báo	N
 nổi_tiếng	A
 của	E
 Mỹ	Np

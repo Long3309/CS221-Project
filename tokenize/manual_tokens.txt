@@ -451,9 +451,7 @@ thành_công
 .
 
 Tại
-Bệnh_viện
-K
-Trung_ương
+Bệnh_viện_K_Trung_ương
 hầu_hết
 nam_giới
 mắc
@@ -646,8 +644,7 @@ cổ_phiếu
 .
 
 Trong
-bức
-tranh
+bức_tranh
 thị_trường
 chung
 ,
@@ -659,8 +656,7 @@ vị_trí
 áp_đảo
 .
 
-Toà
-nhà
+Toà_nhà
 Landmark
 81
 hiện
