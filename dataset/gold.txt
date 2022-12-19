@@ -14,7 +14,7 @@ tiền_đạo	N
 
 Thông_thường	A
 ,	CH
-các	Lf
+các L
 hãng	N
 smartphone	N
 sẽ	R
@@ -388,7 +388,7 @@ hạt_nhân	N
 trị_giá	V
 1.000	M
 tỷ	M
-USD	Nu
+USD	N
 do	E
 chính_quyền	N
 Tổng_thống	N
