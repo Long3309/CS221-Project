@@ -744,7 +744,7 @@ tăng	V
 lên	V
 hơn	A
 28.000	M
-USD	Nu
+USD	N
 .	CH
 
 Úc	Np
