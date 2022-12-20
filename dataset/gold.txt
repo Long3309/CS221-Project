@@ -616,7 +616,7 @@ khu_vực	N
 trung_tâm	N
 đã	R
 ra	V
-thông_báo	V
+thông_báo	N
 hết	V
 phòng	N
 .	CH
