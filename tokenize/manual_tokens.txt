@@ -908,9 +908,7 @@ Huế
 Từ
 thất_bại
 của
-Huyền_sử
-vua
-Đinh
+Huyền_sử_vua_Đinh
 ,
 có_thể
 thấy
@@ -1002,7 +1000,8 @@ khách_hàng
 shipper
 .
 
-Tờ_báo
+Tờ
+báo
 nổi_tiếng
 của
 Mỹ

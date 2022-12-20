@@ -908,9 +908,7 @@ Huế	Np
 Từ	E
 thất_bại	V
 của	E
-Huyền_sử	Np
-vua	N
-Đinh	Np
+Huyền_sử_vua_Đinh	Np
 ,	CH
 có_thể	R
 thấy	V
@@ -1002,7 +1000,8 @@ khách_hàng	N
 shipper	N
 .	CH
 
-Tờ_báo	N
+Tờ N
+báo	N
 nổi_tiếng	A
 của	E
 Mỹ	Np
