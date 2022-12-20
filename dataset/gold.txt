@@ -860,7 +860,7 @@ thắng	V
 đậm	A
 .	CH
 
-Chứng_khoán	Np
+Chứng_khoán	N
 bùng_nổ	V
 với	E
 hơn	A
