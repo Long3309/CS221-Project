@@ -1002,7 +1002,7 @@ shipper	N
 
 Tờ N
 báo N
-nổi_tiếng A
+nổi_tiếng   A
 của	E
 Mỹ	Np
 cổ_súy	V
