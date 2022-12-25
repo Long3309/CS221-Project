@@ -1000,9 +1000,9 @@ khách_hàng	N
 shipper	N
 .	CH
 
-Tờ N
-báo	N
-nổi_tiếng	A
+Tờ  N
+báo N
+nổi_tiếng   A
 của	E
 Mỹ	Np
 cổ_súy	V
