@@ -844,7 +844,7 @@ tỉ_số	N
 hòa	V
 .	CH
 
-Soi	Np
+Soi	V
 kèo	V
 Hà_Lan	Np
 -	CH
