@@ -763,8 +763,7 @@ có
 đủ
 giấy_phép
 ,
-Đất_Xanh
-Quảng_Ngãi
+Đất_Xanh_Quảng_Ngãi
 vẫn
 san_lấp
 ruộng
