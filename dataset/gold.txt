@@ -841,7 +841,7 @@ Senegal	Np
 Chuyên_gia	N
 dự_đoán	V
 tỉ_số	N
-hòa	V
+hòa	A
 .	CH
 
 Soi	V
