@@ -832,8 +832,8 @@ và	Cc
 IDP	Np
 .	CH
 
-Soi	Np
-kèo	V
+Soi	V
+kèo	N
 Ecuador	Np
 -	CH
 Senegal	Np
@@ -845,7 +845,7 @@ hòa	V
 .	CH
 
 Soi	V
-kèo	V
+kèo	N
 Hà_Lan	Np
 -	CH
 Qatar	Np
