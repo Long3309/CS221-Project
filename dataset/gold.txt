@@ -1000,7 +1000,7 @@ khách_hàng	N
 shipper	N
 .	CH
 
-Tờ N
+Tờ	N
 báo N
 nổi_tiếng A
 của	E
